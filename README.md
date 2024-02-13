@@ -1,10 +1,10 @@
 Создали
-git init
 
 
 
 
-clear
+
+
 
 
 
